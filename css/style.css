@@ -1,0 +1,48 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+</style>
+
+
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #666;
+}
+
+h1,h2,h3,h4{
+	font-family: "Lato", sans-serif;
+}
+	
+header{
+	background-color: #202020;
+}
+#hero h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 500;
+	font-size: 120px 
+}
+#hero h2 { 
+	font-family: 'Lato', sans-serif;
+	color: #FF9306;
+	font-size: 80px;
+	text-transform: uppercase;
+		
+	
+}
+#hero h3{
+	font-size: 50px;
+	font-weight: 200;
+}
+
+
+footer{
+	background-color: #fff;
+	padding: 25px 0;
+	border-top: 1px solid #f6f6f6;
+	color: #333;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
